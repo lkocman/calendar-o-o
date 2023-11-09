@@ -1,0 +1,119 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:-//schedule2vcal 0.6//EN
+
+BEGIN:VEVENT
+X-GWITEM-TYPE:NOTE
+<<<<<<< Updated upstream
+UID:2023-11-08T22:57:41CET-0
+DTSTAMP:20231108T215741
+=======
+UID:2023-11-08T23:40:32CET-0
+DTSTAMP:20231108T224032
+>>>>>>> Stashed changes
+DTSTART:20231107
+DTEND:20231108
+SUMMARY:openSUSE Leap 15.5: Weeklymeeting
+DESCRIPTION:Have a lot of fun!
+END:VEVENT
+
+BEGIN:VEVENT
+X-GWITEM-TYPE:NOTE
+<<<<<<< Updated upstream
+UID:2023-11-08T22:57:41CET-1
+DTSTAMP:20231108T215741
+=======
+UID:2023-11-08T23:40:32CET-1
+DTSTAMP:20231108T224032
+>>>>>>> Stashed changes
+DTSTART:20231108
+DTEND:20231109
+SUMMARY:openSUSE Leap 15.5: AnotherWeeklymeeting
+DESCRIPTION:Have a lot of fun!
+END:VEVENT
+
+BEGIN:VEVENT
+X-GWITEM-TYPE:NOTE
+<<<<<<< Updated upstream
+UID:2023-11-08T22:57:41CET-2
+DTSTAMP:20231108T215741
+DTSTART:20231109
+DTEND:20231110
+SUMMARY:openSUSE Leap 15.5: Marketing meet
+DESCRIPTION:Have a lot of fun!
+=======
+UID:2023-11-08T23:40:32CET-2
+DTSTAMP:20231108T224032
+DTSTART:20231109
+DTEND:20231110
+SUMMARY:openSUSE Leap 15.5: Marketing meet
+DESCRIPTION:Have a lot of fun! Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!
+>>>>>>> Stashed changes
+END:VEVENT
+
+BEGIN:VEVENT
+X-GWITEM-TYPE:NOTE
+<<<<<<< Updated upstream
+UID:2023-11-08T22:57:41CET-3
+DTSTAMP:20231108T215741
+=======
+UID:2023-11-08T23:40:32CET-3
+DTSTAMP:20231108T224032
+>>>>>>> Stashed changes
+DTSTART:20231110
+DTEND:20231111
+SUMMARY:openSUSE Leap 15.5: Release Team meet
+DESCRIPTION:Have a lot of fun!
+END:VEVENT
+
+BEGIN:VEVENT
+X-GWITEM-TYPE:NOTE
+<<<<<<< Updated upstream
+UID:2023-11-08T22:57:41CET-4
+DTSTAMP:20231108T215741
+=======
+UID:2023-11-08T23:40:32CET-4
+DTSTAMP:20231108T224032
+>>>>>>> Stashed changes
+DTSTART:20231111
+DTEND:20231112
+SUMMARY:openSUSE Leap 15.5: Late weekly meeting
+DESCRIPTION:Have a lot of fun!
+END:VEVENT
+
+BEGIN:VEVENT
+X-GWITEM-TYPE:NOTE
+<<<<<<< Updated upstream
+UID:2023-11-08T22:57:41CET-5
+DTSTAMP:20231108T215741
+=======
+UID:2023-11-08T23:40:32CET-5
+DTSTAMP:20231108T224032
+>>>>>>> Stashed changes
+DTSTART:20231112
+DTEND:20231113
+SUMMARY:openSUSE Leap 15.5: Late weekly meeting
+DESCRIPTION:Have a lot of fun!
+END:VEVENT
+
+BEGIN:VEVENT
+X-GWITEM-TYPE:NOTE
+<<<<<<< Updated upstream
+UID:2023-11-08T22:57:41CET-6
+DTSTAMP:20231108T215741
+DTSTART:20231112
+DTEND:20231113
+SUMMARY:openSUSE Leap 15.5: Bar session
+DESCRIPTION:Have a lot of fun!
+=======
+UID:2023-11-08T23:40:32CET-6
+DTSTAMP:20231108T224032
+DTSTART:20231112
+DTEND:20231113
+SUMMARY:openSUSE Leap 15.5: Bar session
+DESCRIPTION:Join us in the bar!
+>>>>>>> Stashed changes
+END:VEVENT
+
+END:VCALENDAR

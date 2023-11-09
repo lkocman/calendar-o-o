@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Upcoming openSUSE community events.</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/index.css">
+    <script type="text/javascript" src="/notify.js"></script>
+</head>
+
+<body onload="showtime();"> 
+
+    <div id="header">
+        <img src="/opensuse-logo.png"/>
+    </div>
+
+    <div id="timetable">
+        <h3 id="opensuse-os">Upcoming openSUSE  community events</h3>
+        <!--<h2 id="timenow"></span>-->
+    </div>
+    <div class="calendar-container">
+    <% events.forEach(function(event) { %>
+        <div class="event">
+                <label class="day"><%= event.start.format("ddd DD MMM") %></label><br/>
+                <label class="time">at <%= event.start.format("HH:mm") %></label><br/>
+                <label class="est">roughly in <%= event.start.diff(new moment(), "hours") %> hours</label><br/>
+                <h4 class="event_summary"><%= event.summary %></h4><br/>
+                <label class="event_description"><%= event.description %></label><br/><br/>
+                <input type="button" class="btn" onclick="location.href=<% event.location %>;" value="Join event" />
+                <!--<input type="button" class="btn" onclick="location.href=<% event.location %>;" value="Add to calendar" />-->E1
+        </div>
+    <% }); %> 
+    </div>
+    <div id="footer"><button id="enable">Enable notifications</button></div>
+</body>
+
+</html>

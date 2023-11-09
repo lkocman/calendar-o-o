@@ -1,0 +1,136 @@
+body,
+html {
+  height: 100%;
+  background: #173f4f;
+  display:flex;
+  flex-direction:column;
+  -webkit-font-smoothing: antialiased;
+  font-family: 'Source Sans Pro',sans-serif;
+}
+
+div#timetable {
+  margin: auto;
+  visibility: visible;
+  animation-name: fadeInUp;
+}
+
+
+#opensuse-os {
+    color: #35b9ab;
+    font-weight: 300;
+    font-size: 30pt;
+    margin: 0;
+    padding-top: 0;
+    padding-bottom: 80px;
+}
+
+
+div#header {
+  padding: 0px;
+  margin: 0px;
+  background-color: #173f4f;
+  height: 240px;
+}
+
+#header img {
+  padding: 20px;
+}
+
+div#footer {
+  margin-top: auto;
+  background-color: #4bb679;
+  height: 240px;
+}
+.calendar-container {
+  width: 800px;
+  margin: auto;
+  flex:1;
+  font-size: 1em;
+}
+
+.calendar-container div {
+
+  border-radius: 20px;
+  background: url(/clips.png) 10px 0px  repeat-x;
+}
+
+.calendar-container div:nth-child(even) {
+  float: right;
+  clear: right;
+  margin-top: 50px;
+  background-color: #4bb679; 
+  padding: 25px;
+  padding: 150px 50px 50px 50px;
+  color: #fff;
+
+}
+
+
+.calendar-container div:nth-child(odd) {
+  float: left;
+  clear: left;
+  margin-top: 50px;
+  background-color: #fbc75d;
+  padding: 150px 50px 50px 50px;
+  color: #000;
+}
+.calendar-container div {
+  box-sizing: border-box;
+  width: calc(400 - 5px);
+  margin-bottom: 5px;
+  /*border: 1px dotted grey;*/
+}
+
+
+
+.day {
+  font-size: 3em;
+  font-weight: bold;
+}
+
+
+.time {
+  font-size: 1.5em;
+}
+
+#timenow {
+  color: #fff;
+  font-size: 3em;
+}
+
+.calendar-container input {
+  float: right;
+}
+
+.btn {
+  display: inline-block;
+  margin-bottom: 0;
+  font-weight: 400;
+  text-align: center;
+  vertical-align: middle;
+  touch-action: manipulation;
+  cursor: pointer;
+  border: 1px solid transparent;
+  white-space: nowrap;
+  padding: 6px 12px;
+  font-size: 14px;
+  line-height: 1.42857143;
+  border-radius: 4px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+
+  border: 1px solid #000;
+  background: #bdc3c7ff;
+  color: #173f4f;
+}
+
+.btn:hover {
+  opacity: 80%;
+  background: #000;
+}
+
+.event_body {
+    top: 20px;
+}

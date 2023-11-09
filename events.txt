@@ -1,0 +1,59 @@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!                           Example events                             !!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+Upcoming openSUSE events
+==================================================
+
+Version:                0.1
+Date:                   2023-11-07
+
+Product:                openSUSE Leap 15.5
+
+Leap Release Manager:   Lubos Kocman
+Editors:                Lubos Kocman
+
+------------------------------------------------------------------------------
+Tue, Nov 7, 2023       Weeklymeeting
+
+Have a lot of fun!
+
+
+------------------------------------------------------------------------------
+Wed, Nov 8, 2023       AnotherWeeklymeeting
+
+Have a lot of fun!
+
+------------------------------------------------------------------------------
+Thu, Nov 9, 2023       Marketing meet
+
+<<<<<<< Updated upstream
+Have a lot of fun!
+=======
+Have a lot of fun! Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!Have a lot of fun!
+>>>>>>> Stashed changes
+
+------------------------------------------------------------------------------
+Fri, Nov 10, 2023       Release Team meet
+
+Have a lot of fun!
+
+------------------------------------------------------------------------------
+Sat, Nov 11, 2023       Late weekly meeting
+
+Have a lot of fun!
+
+------------------------------------------------------------------------------
+Sun, Nov 12, 2023       Late weekly meeting
+
+Have a lot of fun!
+
+------------------------------------------------------------------------------
+Sun, Nov 12, 2023       Bar session
+
+<<<<<<< Updated upstream
+Have a lot of fun!
+=======
+Join us in the bar!
+>>>>>>> Stashed changes
